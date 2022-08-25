@@ -3,7 +3,7 @@ import DailyTask from "./Component/DailyTask";
 
 function App() {
   return (
-    <div className="App">
+    <div >
       
       <DailyTask></DailyTask>
     </div>
